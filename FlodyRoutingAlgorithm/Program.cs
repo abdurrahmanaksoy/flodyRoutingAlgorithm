@@ -71,7 +71,7 @@ namespace FlodyRoutingAlgorithm
             matrix[3][5] = 5;
 
             matrix[4][0] = 16;
-            matrix[4][1] = double.PositiveInfinity;
+            matrix[4][1] = double.PositiveInfinity; 
             matrix[4][2] = double.PositiveInfinity;
             matrix[4][3] = 4;
             matrix[4][4] = 0;
